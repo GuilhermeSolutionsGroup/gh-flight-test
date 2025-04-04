@@ -1,1 +1,6 @@
-test>=3.4.5
+amqp==5.3.1;
+billiard=>3.6.4.0
+celery<=5.2.1;
+certifi=+2025.1.31;
+charset-normalizer=3.4.1;  
+wcwidth==0.2.13
